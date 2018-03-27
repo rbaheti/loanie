@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "mocha --compilers js:babel-core/register tests/App.test.js --require ignore-styles",
+    "test": "mocha --compilers js:babel-core/register tests/*.js --require ignore-styles",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
