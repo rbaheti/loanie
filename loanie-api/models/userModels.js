@@ -1,4 +1,6 @@
 const mongoose = require("mongoose");
+mongoose.Promise = Promise;
+mongoose.connect('mongodb://localhost/loanie', { useMongoClient: true });
 
 // This table stores profile details of all users. There should always be exactly 1 row
 // for a user in this table.

@@ -1,0 +1,26 @@
+[
+	{
+		"clientId": "5abde1d0cbe7571eaca99675",
+		"currentStatus": "1",
+		"loanManagerId": "5abde156cbe7571eaca99672",
+		"timestamp": "11-07-2016"
+	},
+	{
+		"clientId": "5abde1facbe7571eaca99676",
+		"currentStatus": "1",
+		"loanManagerId": "5abde156cbe7571eaca99672",
+		"timestamp": "10-20-2017"
+	},
+	{
+		"clientId": "5abde38ccbe7571eaca99679",
+		"currentStatus": "1",
+		"loanManagerId": "5abde219cbe7571eaca99677",
+		"timestamp": "08-11-2018"
+	},
+	{
+		"clientId": "5abde38ccbe7571eaca99679",
+		"currentStatus": "1",
+		"loanManagerId": "5abde1a2cbe7571eaca99674",
+		"timestamp": "01-23-2016"
+	}
+]

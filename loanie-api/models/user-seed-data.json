@@ -1,0 +1,68 @@
+[
+	{
+		"firstName": "Dan",
+	    "lastName": "dan",
+	    "password": "password",
+	    "userType": "Manager",
+	    "email": "dan@dan.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": true,
+	    "subscriptionEndDate": "12-01-2017"
+	},
+	{
+		"firstName": "Ryan",
+	    "lastName": "ryan",
+	    "password": "password",
+	    "userType": "Manager",
+	    "email": "ryan@ryan.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": false,
+	    "subscriptionEndDate": "12-09-2017"
+	},
+	{
+		"firstName": "Rashmi",
+	    "lastName": "Baheti",
+	    "password": "password",
+	    "userType": "Client",
+	    "email": "rashmi@lambdaschool.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": false,
+	    "subscriptionEndDate": "12-03-2018"
+	},
+	{
+		"firstName": "John",
+	    "lastName": "john",
+	    "password": "password",
+	    "userType": "Client",
+	    "email": "john@john.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": false,
+	    "subscriptionEndDate": "12-05-2016"
+	},
+	{
+		"firstName": "Austen",
+	    "lastName": "Tag",
+	    "password": "password",
+	    "userType": "Manager",
+	    "email": "austen@austen.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": false,
+	    "subscriptionEndDate": "01-08-2017"
+	},
+	{
+		"firstName": "Jamie",
+	    "lastName": "Johnson",
+	    "password": "password",
+	    "userType": "Client",
+	    "email": "jamie@gmail.com",
+	    "mobilePhone": 987396464,
+	    "acceptTexts": true,
+	    "acceptEmails": false,
+	    "subscriptionEndDate": "05-15-2017"
+	}
+]
